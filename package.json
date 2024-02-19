@@ -1,0 +1,18 @@
+{
+  "private": true,
+  "scripts": {
+    "build": "nuxt build",
+    "dev": "nuxt dev",
+    "generate": "nuxt generate",
+    "preview": "nuxt preview",
+    "postinstall": "nuxt prepare"
+  },
+  "devDependencies": {
+    "@fawmi/vue-google-maps": "0.9.72",
+    "@nuxtjs/tailwindcss": "^6.4.1",
+    "firebase": "^9.17.1",
+    "nuxt": "^3.2.2",
+    "nuxt-vuefire": "^0.1.6",
+    "vuefire": "^3.1.0"
+  }
+}
